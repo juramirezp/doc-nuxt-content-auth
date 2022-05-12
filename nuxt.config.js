@@ -42,6 +42,7 @@ export default {
     "@nuxtjs/axios",
     // https://go.nuxtjs.dev/pwa
     "@nuxtjs/pwa",
+    "@nuxt/content",
     [
       "@nuxtjs/firebase",
       {
